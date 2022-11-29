@@ -57,7 +57,7 @@ Present a series of prompts for password criteria:
 
 ```
 ## Website Screenshot
-![]()
+![](assets/images/05-javascript-challenge-demo.png)
 
 ## Deployed web application: 
 URL: https://n-i-n-a.github.io/Password-Generator/ 
