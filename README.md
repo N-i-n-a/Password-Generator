@@ -2,7 +2,9 @@
 
 ## Description
 ```
-This week's challenge is creating an application that an employee can use to generate a random password based on criteria they’ve selected. The app runs in the browser and features dynamically updated HTML and CSS, all powered by JavaScript code.
+This week's challenge is creating an application that an employee can use to generate a random 
+password based on criteria they’ve selected. The app runs in the browser and features dynamically 
+updated HTML and CSS, all powered by JavaScript code.
 ```
 
 ## User Story
